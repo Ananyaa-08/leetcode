@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananyaa-08/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Ananyaa-08/leetcode/tree/master/0136-single-number) |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0119-pascals-triangle-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
