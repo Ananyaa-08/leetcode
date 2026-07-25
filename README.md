@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/Ananyaa-08/leetcode/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ananyaa-08/leetcode/tree/master/0605-can-place-flowers) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ananyaa-08/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -39,6 +40,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ananyaa-08/leetcode/tree/master/0605-can-place-flowers) |
 ## Design
 |  |
@@ -69,6 +71,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ananyaa-08/leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 ## Linked List
 |  |
 | ------- |
@@ -86,4 +89,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0002-add-two-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
