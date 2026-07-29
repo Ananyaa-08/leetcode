@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ananyaa-08/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananyaa-08/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ananyaa-08/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananyaa-08/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Ananyaa-08/leetcode/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ananyaa-08/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananyaa-08/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Tree
