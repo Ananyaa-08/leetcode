@@ -13,6 +13,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Ananyaa-08/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ananyaa-08/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Ananyaa-08/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananyaa-08/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Tree
 |  |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ananyaa-08/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ananyaa-08/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Greedy
 |  |
@@ -68,6 +71,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
@@ -82,6 +86,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ananyaa-08/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 ## Linked List
@@ -97,6 +102,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
