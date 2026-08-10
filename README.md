@@ -75,6 +75,7 @@
 | [0001-two-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ananyaa-08/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ananyaa-08/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ananyaa-08/leetcode/tree/master/0414-third-maximum-number) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ananyaa-08/leetcode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
