@@ -23,6 +23,7 @@
 | [0414-third-maximum-number](https://github.com/Ananyaa-08/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ananyaa-08/leetcode/tree/master/0605-can-place-flowers) |
+| [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Ananyaa-08/leetcode/tree/master/1929-concatenation-of-array) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 ## Prefix Sum
 |  |
@@ -82,6 +84,7 @@
 | [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
@@ -106,10 +109,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0002-add-two-numbers) |
+| [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 ## Math
 |  |
