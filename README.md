@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ananyaa-08/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ananyaa-08/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ananyaa-08/leetcode/tree/master/0414-third-maximum-number) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 ## Prefix Sum
@@ -77,6 +79,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ananyaa-08/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,4 +206,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ananyaa-08/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
