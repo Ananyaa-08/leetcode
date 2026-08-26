@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananyaa-08/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ananyaa-08/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ananyaa-08/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Ananyaa-08/leetcode/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/Ananyaa-08/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ananyaa-08/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananyaa-08/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ananyaa-08/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Ananyaa-08/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
@@ -210,6 +212,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ananyaa-08/leetcode/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Stack
 |  |
