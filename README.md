@@ -21,6 +21,7 @@
 | [0136-single-number](https://github.com/Ananyaa-08/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Ananyaa-08/leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ananyaa-08/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ananyaa-08/leetcode/tree/master/0283-move-zeroes) |
@@ -100,6 +101,7 @@
 | [0036-valid-sudoku](https://github.com/Ananyaa-08/leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Ananyaa-08/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ananyaa-08/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -128,6 +130,7 @@
 | [0075-sort-colors](https://github.com/Ananyaa-08/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ananyaa-08/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ananyaa-08/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ananyaa-08/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
@@ -179,6 +183,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
