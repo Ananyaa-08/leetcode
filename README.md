@@ -16,6 +16,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananyaa-08/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Ananyaa-08/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ananyaa-08/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ananyaa-08/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ananyaa-08/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ananyaa-08/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
 | ------- |
