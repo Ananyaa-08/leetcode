@@ -42,6 +42,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ananyaa-08/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananyaa-08/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ananyaa-08/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Ananyaa-08/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -201,11 +203,13 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ananyaa-08/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Ananyaa-08/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ananyaa-08/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -249,4 +253,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ananyaa-08/leetcode/tree/master/0202-happy-number) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ananyaa-08/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
