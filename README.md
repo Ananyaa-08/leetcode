@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/Ananyaa-08/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ananyaa-08/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ananyaa-08/leetcode/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/Ananyaa-08/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ananyaa-08/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ananyaa-08/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananyaa-08/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -167,6 +168,7 @@
 | [0002-add-two-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ananyaa-08/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ananyaa-08/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Ananyaa-08/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Ananyaa-08/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
