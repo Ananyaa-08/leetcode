@@ -170,6 +170,7 @@
 | [0013-roman-to-integer](https://github.com/Ananyaa-08/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ananyaa-08/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Ananyaa-08/leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Ananyaa-08/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
