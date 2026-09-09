@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/Ananyaa-08/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ananyaa-08/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ananyaa-08/leetcode/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/Ananyaa-08/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Ananyaa-08/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ananyaa-08/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ananyaa-08/leetcode/tree/master/0088-merge-sorted-array) |
@@ -266,4 +267,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ananyaa-08/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Ananyaa-08/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
