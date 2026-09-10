@@ -38,6 +38,7 @@
 | [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ananyaa-08/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Ananyaa-08/leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
@@ -205,6 +206,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Ananyaa-08/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Ananyaa-08/leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ananyaa-08/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Ananyaa-08/leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
