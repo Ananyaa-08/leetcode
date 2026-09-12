@@ -23,6 +23,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ananyaa-08/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ananyaa-08/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ananyaa-08/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Ananyaa-08/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0229-majority-element-ii) |
@@ -173,6 +174,7 @@
 | [0009-palindrome-number](https://github.com/Ananyaa-08/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ananyaa-08/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ananyaa-08/leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ananyaa-08/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ananyaa-08/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Ananyaa-08/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ananyaa-08/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ananyaa-08/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Ananyaa-08/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ananyaa-08/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Ananyaa-08/leetcode/tree/master/0682-baseball-game) |
