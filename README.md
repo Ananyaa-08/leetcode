@@ -179,6 +179,7 @@
 | [0202-happy-number](https://github.com/Ananyaa-08/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Ananyaa-08/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Ananyaa-08/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
@@ -201,6 +202,7 @@
 | [0125-valid-palindrome](https://github.com/Ananyaa-08/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ananyaa-08/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Ananyaa-08/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Ananyaa-08/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -211,6 +213,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Ananyaa-08/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Ananyaa-08/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ananyaa-08/leetcode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Ananyaa-08/leetcode/tree/master/1929-concatenation-of-array) |
