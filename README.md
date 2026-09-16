@@ -92,6 +92,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/Ananyaa-08/leetcode/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ananyaa-08/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Ananyaa-08/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ananyaa-08/leetcode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Ananyaa-08/leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -292,4 +294,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ananyaa-08/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ananyaa-08/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ananyaa-08/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ananyaa-08/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
