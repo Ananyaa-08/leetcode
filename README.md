@@ -203,6 +203,7 @@
 | [0013-roman-to-integer](https://github.com/Ananyaa-08/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ananyaa-08/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ananyaa-08/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ananyaa-08/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Ananyaa-08/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ananyaa-08/leetcode/tree/master/0344-reverse-string) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ananyaa-08/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ananyaa-08/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ananyaa-08/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Ananyaa-08/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ananyaa-08/leetcode/tree/master/0232-implement-queue-using-stacks) |
