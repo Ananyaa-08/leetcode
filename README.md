@@ -189,6 +189,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/Ananyaa-08/leetcode/tree/master/0394-decode-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0125-valid-palindrome](https://github.com/Ananyaa-08/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ananyaa-08/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ananyaa-08/leetcode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Ananyaa-08/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Ananyaa-08/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Ananyaa-08/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -271,6 +273,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ananyaa-08/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Ananyaa-08/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ananyaa-08/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Ananyaa-08/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Ananyaa-08/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ananyaa-08/leetcode/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Ananyaa-08/leetcode/tree/master/0853-car-fleet) |
