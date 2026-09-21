@@ -93,6 +93,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/Ananyaa-08/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Ananyaa-08/leetcode/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
@@ -124,6 +125,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ananyaa-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/Ananyaa-08/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | [0682-baseball-game](https://github.com/Ananyaa-08/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ananyaa-08/leetcode/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Ananyaa-08/leetcode/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/Ananyaa-08/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Ananyaa-08/leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -312,4 +315,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ananyaa-08/leetcode/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Ananyaa-08/leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
