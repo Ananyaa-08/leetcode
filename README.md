@@ -66,6 +66,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananyaa-08/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ananyaa-08/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Binary Tree
 |  |
 | ------- |
@@ -319,4 +320,8 @@
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Ananyaa-08/leetcode/tree/master/0895-maximum-frequency-stack) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ananyaa-08/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
