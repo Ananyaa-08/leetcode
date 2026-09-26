@@ -47,6 +47,7 @@
 | [0853-car-fleet](https://github.com/Ananyaa-08/leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Ananyaa-08/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananyaa-08/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Ananyaa-08/leetcode/tree/master/1929-concatenation-of-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ananyaa-08/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Divide and Conquer
@@ -132,6 +133,7 @@
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Ananyaa-08/leetcode/tree/master/0895-maximum-frequency-stack) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananyaa-08/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0412-fizz-buzz](https://github.com/Ananyaa-08/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Ananyaa-08/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananyaa-08/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
