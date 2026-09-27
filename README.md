@@ -47,6 +47,7 @@
 | [0853-car-fleet](https://github.com/Ananyaa-08/leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Ananyaa-08/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ananyaa-08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananyaa-08/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Ananyaa-08/leetcode/tree/master/1929-concatenation-of-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ananyaa-08/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -73,6 +74,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ananyaa-08/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Ananyaa-08/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ananyaa-08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Tree
 |  |
 | ------- |
