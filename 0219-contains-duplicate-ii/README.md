@@ -1,32 +1,32 @@
-<h2><a href="https://leetcode.com/problems/contains-duplicate-ii">219. Contains Duplicate II</a></h2>
+<h2><a href="https://leetcode.com/problems/contains-duplicate-ii">219. Contains Duplicate II</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <code>true</code> <em>if there are two <strong>distinct indices</strong> </em><code>i</code><em> and </em><code>j</code><em> in the array such that </em><code>nums[i] == nums[j]</code><em> and </em><code>abs(i - j) &lt;= k</code>.</p>
 
-<h3>Easy</h3>
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-<p>Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k.</p>
+<pre>
+<strong>Input:</strong> nums = [1,2,3,1], k = 3
+<strong>Output:</strong> true
+</pre>
 
-<h3>Solution</h3>
+<p><strong class="example">Example 2:</strong></p>
 
-<pre><code>#include &lt;vector&gt;
-#include &lt;unordered_set&gt;
+<pre>
+<strong>Input:</strong> nums = [1,0,1,1], k = 1
+<strong>Output:</strong> true
+</pre>
 
-class Solution {
-public:
-    bool containsNearbyDuplicate(std::vector&lt;int&gt;&amp; nums, int k) {
-        std::unordered_set&lt;int&gt; set;
+<p><strong class="example">Example 3:</strong></p>
 
-        for (int i = 0; i &lt; nums.size(); ++i) {
-            if (i &gt; k) {
-                set.erase(nums[i - k - 1]);
-            }
+<pre>
+<strong>Input:</strong> nums = [1,2,3,1,2,3], k = 2
+<strong>Output:</strong> false
+</pre>
 
-            if (set.count(nums[i])) {
-                return true;
-            }
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-            set.insert(nums[i]);
-        }
-
-        return false;
-    }
-};
-</code></pre>
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
+	<li><code>0 &lt;= k &lt;= 10<sup>5</sup></code></li>
+</ul>
