@@ -11,7 +11,7 @@ public:
             int col = mid % n;
             if (matrix[row][col] == target)
                 return true;
-            if (matrix[row][col] < target)
+            else if (matrix[row][col] < target)
                 l = mid + 1;
             else
                 r = mid - 1;
