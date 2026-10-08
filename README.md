@@ -46,6 +46,7 @@
 | [0605-can-place-flowers](https://github.com/Ananyaa-08/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Ananyaa-08/leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Ananyaa-08/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Ananyaa-08/leetcode/tree/master/0735-asteroid-collision) |
@@ -82,6 +83,7 @@
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ananyaa-08/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Ananyaa-08/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ananyaa-08/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ananyaa-08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Tree
