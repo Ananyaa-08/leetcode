@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ananyaa-08/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ananyaa-08/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ananyaa-08/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Ananyaa-08/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Ananyaa-08/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ananyaa-08/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ananyaa-08/leetcode/tree/master/0066-plus-one) |
@@ -143,6 +144,7 @@
 | [0001-two-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ananyaa-08/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ananyaa-08/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Ananyaa-08/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Ananyaa-08/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ananyaa-08/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ananyaa-08/leetcode/tree/master/0202-happy-number) |
