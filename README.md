@@ -40,6 +40,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ananyaa-08/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ananyaa-08/leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Ananyaa-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
@@ -83,6 +84,7 @@
 | [0268-missing-number](https://github.com/Ananyaa-08/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ananyaa-08/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ananyaa-08/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ananyaa-08/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ananyaa-08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -101,6 +103,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ananyaa-08/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ananyaa-08/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -121,6 +124,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ananyaa-08/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ananyaa-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -129,6 +133,7 @@
 | [0118-pascals-triangle](https://github.com/Ananyaa-08/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
