@@ -91,6 +91,7 @@
 | [0410-split-array-largest-sum](https://github.com/Ananyaa-08/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ananyaa-08/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ananyaa-08/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Ananyaa-08/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ananyaa-08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Tree
 |  |
@@ -122,6 +123,7 @@
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Ananyaa-08/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Ananyaa-08/leetcode/tree/master/0901-online-stock-span) |
+| [0981-time-based-key-value-store](https://github.com/Ananyaa-08/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Ananyaa-08/leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0981-time-based-key-value-store](https://github.com/Ananyaa-08/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananyaa-08/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Two Pointers
 |  |
@@ -248,6 +251,7 @@
 | [0394-decode-string](https://github.com/Ananyaa-08/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Ananyaa-08/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0981-time-based-key-value-store](https://github.com/Ananyaa-08/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/Ananyaa-08/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananyaa-08/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
