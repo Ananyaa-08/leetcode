@@ -160,6 +160,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ananyaa-08/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Ananyaa-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Ananyaa-08/leetcode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/Ananyaa-08/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ananyaa-08/leetcode/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Ananyaa-08/leetcode/tree/master/0895-maximum-frequency-stack) |
@@ -181,6 +182,7 @@
 | [0283-move-zeroes](https://github.com/Ananyaa-08/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ananyaa-08/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Ananyaa-08/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Ananyaa-08/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -255,6 +257,7 @@
 | [0394-decode-string](https://github.com/Ananyaa-08/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Ananyaa-08/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ananyaa-08/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Ananyaa-08/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0981-time-based-key-value-store](https://github.com/Ananyaa-08/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/Ananyaa-08/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -381,6 +384,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananyaa-08/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ananyaa-08/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Ananyaa-08/leetcode/tree/master/0567-permutation-in-string) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
