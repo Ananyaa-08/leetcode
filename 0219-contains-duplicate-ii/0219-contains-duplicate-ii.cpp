@@ -3,16 +3,18 @@
 class Solution {
 public:
     bool containsNearbyDuplicate(std::vector<int>& nums, int k) {
-        std::unordered_set<int> set;       
-        for (int i = 0; i < nums.size(); ++i) {
-            if (i > k) {
-                set.erase(nums[i - k - 1]);
+        unordered_set<int>window;
+        int l=0;
+        for(int r=0; r<nums.size(); r++){
+            if(r-l>k){
+                window.erase(nums[l]);
+                l++;
             }
-            if (set.count(nums[i])) {
+            if(window.find(nums[r])!=window.end()){
                 return true;
             }
-            set.insert(nums[i]);
-        }      
+            window.insert(nums[r]);
+        }
         return false;
     }
 };
