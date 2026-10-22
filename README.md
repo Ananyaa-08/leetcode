@@ -142,6 +142,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ananyaa-08/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Ananyaa-08/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ananyaa-08/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -177,6 +178,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ananyaa-08/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Ananyaa-08/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ananyaa-08/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ananyaa-08/leetcode/tree/master/0018-4sum) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananyaa-08/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Ananyaa-08/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Ananyaa-08/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ananyaa-08/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ananyaa-08/leetcode/tree/master/0020-valid-parentheses) |
@@ -404,4 +407,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ananyaa-08/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ananyaa-08/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
