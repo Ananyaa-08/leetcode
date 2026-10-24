@@ -2,7 +2,6 @@ class Solution {
 public:
     int calPoints(vector<string>& operations) {
         vector<int> scores;
-
         for(string op : operations) {
             if(op == "C") {
                 scores.pop_back();
@@ -18,12 +17,10 @@ public:
                 scores.push_back(stoi(op));
             }
         }
-
         int total = 0;
         for(int score : scores) {
             total += score;
         }
-
         return total;
     }
 };
