@@ -61,6 +61,7 @@
 | [0875-koko-eating-bananas](https://github.com/Ananyaa-08/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ananyaa-08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananyaa-08/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Ananyaa-08/leetcode/tree/master/1929-concatenation-of-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ananyaa-08/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -331,6 +332,7 @@
 | [0036-valid-sudoku](https://github.com/Ananyaa-08/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Ananyaa-08/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Stack
 |  |
 | ------- |
@@ -354,6 +356,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ananyaa-08/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -411,4 +414,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ananyaa-08/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
