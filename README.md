@@ -67,6 +67,7 @@
 | [1929-concatenation-of-array](https://github.com/Ananyaa-08/leetcode/tree/master/1929-concatenation-of-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ananyaa-08/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananyaa-08/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ananyaa-08/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ananyaa-08/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananyaa-08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ananyaa-08/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ananyaa-08/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
