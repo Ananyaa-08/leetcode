@@ -63,6 +63,7 @@
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ananyaa-08/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananyaa-08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananyaa-08/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Ananyaa-08/leetcode/tree/master/1929-concatenation-of-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ananyaa-08/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -265,6 +266,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ananyaa-08/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Ananyaa-08/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Ananyaa-08/leetcode/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Ananyaa-08/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## String
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Ananyaa-08/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananyaa-08/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananyaa-08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananyaa-08/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
@@ -369,6 +372,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ananyaa-08/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananyaa-08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananyaa-08/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -433,10 +437,12 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananyaa-08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananyaa-08/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ananyaa-08/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananyaa-08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananyaa-08/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
